@@ -8,7 +8,7 @@ The application That I have made Pathology Software. My Objective was To Make Th
 ![ER  Diagram](snapshots/D.png)
 # viedo of working features 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/DrWOjiVNeiI)
+[![Watch the video]()](https://youtu.be/DrWOjiVNeiI)
 
 
 # snapshots
