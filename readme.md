@@ -6,6 +6,10 @@ The application That I have made Pathology Software. My Objective was To Make Th
 * Backend: PHP,
 # DATABASE DESIGN
 ![ER  Diagram](snapshots/D.png)
+# viedo of working features 
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/DrWOjiVNeiI)
+
 
 # snapshots
 welcome Page
@@ -57,7 +61,6 @@ view report
 ![welcome Page](snapshots/user_10.png)
 print
 ![welcome Page](snapshots/user_11.png)
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 
 
