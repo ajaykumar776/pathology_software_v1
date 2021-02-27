@@ -1,7 +1,5 @@
 # Objective
-The application That i have made Pathology Software .My Objective was To  Make This Application for Generate report for   patient.The Features That i have Give Admin login ,Add Patient in Add patient I have generated a unique Id for each Patients. Manage Patients,Generate Reports,
-*user Side :
-In user Side User can login With report Id and mobile no and there user can able to see the status of the report either it is pending or sucess.from there sucess report user can print .
+The application That I have made Pathology Software. My Objective was To Make This Application Generate reports for patients. The Features That I have Give Admin login, Add Patient in Add patient I have generated a unique Id for each patient. Manage Patients, Generate Reports, *user Side: On the user Side, the User can log in With report Id and mobile no, and there the user can able to see the status of the report either it is pending or successful. from their success report, users can print.
 
 # Technologies Used
 * Frontend: HTML, CSS, Boostrap 4,javascript
