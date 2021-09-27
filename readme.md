@@ -66,7 +66,7 @@ read a
 len=`echo $a | wc -c`
 len=`expr $len - 1`
 echo "length of the string is $len"
-2.
+![2.
 clear
 echo "Enter the year"
 read y
@@ -75,7 +75,7 @@ then
 echo "The given year is a leap year"
 else
 echo "The given year is not a leap year"
-fi
+fi]
 3.
 
 clear
