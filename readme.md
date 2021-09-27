@@ -1,7 +1,7 @@
 # Objective
 The application That I have made Pathology Software. My Objective was To Make This Application Generate reports for patients. The Features That I have Give Admin login, Add Patient in Add patient I have generated a unique Id for each patient. Manage Patients, Generate Reports, *user Side: On the user Side, the User can log in With report Id and mobile no, and there the user can able to see the status of the report either it is pending or successful. from their success report, users can print.
 
-# Technologies Used
+<!-- # Technologies Used
 * Frontend: HTML, CSS, Boostrap 4,javascript
 * Backend: PHP,
 # DATABASE DESIGN
@@ -58,7 +58,7 @@ view report
 ![welcome Page](snapshots/3.png)
 ![welcome Page](snapshots/user_10.png)
 print
-![welcome Page](snapshots/user_11.png)
+![welcome Page](snapshots/user_11.png) -->
 
 
 
