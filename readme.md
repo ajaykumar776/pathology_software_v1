@@ -59,6 +59,80 @@ view report
 ![welcome Page](snapshots/user_10.png)
 print
 ![welcome Page](snapshots/user_11.png) -->
+1.
+clear
+echo "enter a string"
+read a
+len=`echo $a | wc -c`
+len=`expr $len - 1`
+echo "length of the string is $len"
+2.
+clear
+echo "Enter the year"
+read y
+if [ `expr $y % 4` -eq 0 ]
+then
+echo "The given year is a leap year"
+else
+echo "The given year is not a leap year"
+fi
+3.
 
+clear
+echo "enter the number"
+read a
+if [ `expr $a % 2` -eq 0 ]
+then
+echo "The given number is even number"
+else
+echo "The given number is odd number"
+fi
+4.
 
-
+echo "Enter a number: "
+read num
+i=2
+res=1
+if [ $num -ge 2 ]
+then
+while [ $i -le $num ]
+do
+res=`expr $res \* $i`
+i=`expr $i + 1`
+done
+fi
+echo "Factorial of $num = $res"
+5.
+clear
+echo "enter a string"
+read str
+len=`echo $str | wc -c`
+len=`expr $len - 1`
+i=$len
+echo "the reverse of the string is"
+while [ $len -gt 0 ]
+do
+ch=`echo $str | cut -c $i`
+echo "$ch"
+len=`expr $len - 1`
+i=`expr $i - 1`
+done
+6.
+clear
+echo "enter a string"
+read str
+len=`echo $str | wc -c`
+len=`expr $len - 1`
+count=0
+while [ $len -gt 0 ]
+do
+ch=`echo $str | cut -c $len`
+case $ch in
+[aeiouAEIOU] )
+count=`expr $count + 1`
+echo $ch
+;;
+esac
+len=`expr $len - 1`
+done
+echo "total vowel is $count"
